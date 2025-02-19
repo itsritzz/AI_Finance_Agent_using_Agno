@@ -91,10 +91,8 @@ The system employs a modular architecture with distinct roles for each agent:
 
 ### ✅ **Deployment**
 - **Local Server (Python HTTP Server)**  
-- **Cloud Hosting (Optional):**  
-   - **GitHub Pages**  
-   - **Vercel**  
-   - **Netlify**  
+- **Cloud Hosting:**  
+   - **Streamlit**  
 
 ## **Installation**
 
@@ -129,6 +127,7 @@ This project is licensed under the MIT License.
 - **Agno Team:** For the framework and comprehensive documentation. [Agno Documentation](https://docs.phidata.com/introduction)
 - **Groq AI Models:** For superfast inference processing. [Groqcloud](https://console.groq.com/playground)
 - **YFinanceTools:** For reliable financial data APIs.
+- **Streamlit:** For seamless deployment.
 
 ## **Contact**
 
