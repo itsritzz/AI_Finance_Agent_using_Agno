@@ -6,6 +6,8 @@
 
 This project implements an **AI Finance Agent** designed to fetch **analyst recommendations** and deliver **up-to-date financial news** using [Agno Framework](https://docs.phidata.com/introduction). By leveraging **Groq's AI models**, **YFinanceTools**, and **GoogleSearch**, this application serves as a powerful tool for financial analysis and information retrieval. Could be used for any stocks data.
 
+Check  it out [here](https://fiananceagent.streamlit.app/)
+
 The system is modular, robust, and built to streamline financial data extraction, ensuring accurate insights and reliable updates.
 
 ---
