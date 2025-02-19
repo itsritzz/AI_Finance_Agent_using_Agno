@@ -39,7 +39,7 @@ The system is modular, robust, and built to streamline financial data extraction
 
 The system employs a modular architecture with distinct roles for each agent:
 
-### **1️⃣ Web Agent (GoogleSearch)**  
+### **1️⃣ Web Agent (DuckDuckGo)**  
 - Fetches relevant financial news.  
 - Provides credible source URLs for transparency.  
 
